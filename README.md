@@ -41,7 +41,7 @@ This README.md file documents how I (Tee) installed and analyzed data using `spi
 
 2. Activate the spicemix environment by entering `conda activate spicemix`.
 
-3. Go to the directory that contains the jupyter notebook file by entering `cd Tee/spicemix/spicemix-gastruloid/scripts/`
+3. Go to the directory that contains the jupyter notebook file by entering `cd F:/Tee/spicemix/spicemix-gastruloid/scripts/`
 
 4. Run the command `juyter lab`. This should launch a new browser tab that allows you to interact with Jupyter (interactive python) session.
 
